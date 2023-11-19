@@ -1,0 +1,26 @@
+Introduction to Java:
+
+> Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible.
+
+> It is intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
+
+> Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.
+
+> Java comes with it's own JVM which is platform independent.
+
+Syntax:
+
+public class Sample {
+    public static void main(String args[]) {
+        System.out.println("Hello World");
+    }
+}
+
+Rules:
+
+1. We can make multiple classes in one java file but only one class can be public.
+2. The name of the file should be same as the name of the public class.
+3. The main method should be public, static and void. 
+4. The main method should have a string array as an argument.
+5. There may be multiple main methods in a class but only one can be public.
+6. The name of the class should be in camel case(CamelCase).
