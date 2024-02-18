@@ -1,7 +1,7 @@
 class Student {
     int rollno;
     String name;
-    String college = "Harvard";
+    static String college = "Harvard";
 
     Student(int rollno, String name) {
         this.rollno = rollno;
@@ -18,6 +18,9 @@ public class Static {
     public static void main(String[] args) {
         Student s1 = new Student(1, "Armaan");
         Student s2 = new Student(9, "Amelia");
+
+        // Student.college = "Stanford";
+        // System.out.println(Student.college);
 
         s1.display();
         s2.display();

@@ -12,6 +12,7 @@ class Dog {
 
 public class Construct {
     public static void main(String[] args) {
+        Animal a1;  //declaration of object
         Animal a = new Animal();
         Dog d = new Dog("Ragnar");
     }

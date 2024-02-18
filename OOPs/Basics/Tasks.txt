@@ -1,0 +1,69 @@
+Question 1:
+Write a Java program to calculate the area of a rectangle using a static method. The dimensions of the rectangle are provided as input.
+
+Test Case:
+INPUT: Length = 5, Width = 3
+OUTPUT: Area = 15
+
+Question 2:
+Develop a Java program to count the number of objects created for a particular class using a static variable.
+
+Test Case:
+INPUT: N/A
+OUTPUT: Number of objects created = 5
+
+Question 3:
+Create a Java class representing a bank account with static variables to keep track of the total number of accounts created and total balance across all accounts. Implement methods to deposit, withdraw, and display balance for each account.
+
+Test Case:
+INPUT: Initial balance = $100
+OUTPUT: Current balance = $90
+
+Question 4:
+Implement a Java program to find the factorial of a number using a static method.
+
+Test Case:
+INPUT: Number = 5
+OUTPUT: Factorial = 120
+
+Question 5:
+Design a Java class representing a university with static variables to store the total number of students enrolled and total number of courses offered. Implement methods to enroll students in courses and display the current enrollment status.
+
+Test Case:
+INPUT: Number of students = 50, Number of courses = 10
+OUTPUT: Current enrollment status: 50 students enrolled in 10 courses
+
+Question 6:
+Develop a Java program to simulate a dice roll using a static method. The method should return a random number between 1 and 6.
+
+Test Case:
+INPUT: N/A
+OUTPUT: Dice roll result = 4
+
+Question 7:
+Create a Java class representing a book with static variables to store the total number of books available and total number of books borrowed. Implement methods to borrow and return books, and display the current availability status.
+
+Test Case:
+INPUT: Number of available books = 100, Number of borrowed books = 20
+OUTPUT: Current availability status: 80 books available, 20 books borrowed
+
+Question 8:
+Write a Java program to calculate the sum of elements in an array using a static method.
+
+Test Case:
+INPUT: Array = [1, 2, 3, 4, 5]
+OUTPUT: Sum = 15
+
+Question 9:
+Develop a Java class representing a car rental service with static variables to store the total number of cars available and total number of cars rented out. Implement methods to rent and return cars, and display the current availability status.
+
+Test Case:
+INPUT: Number of available cars = 50, Number of rented cars = 10
+OUTPUT: Current availability status: 40 cars available, 10 cars rented
+
+Question 10:
+Design a Java program to convert temperature from Celsius to Fahrenheit and vice versa using static methods.
+
+Test Case:
+INPUT: Temperature in Celsius = 30
+OUTPUT: Temperature in Fahrenheit = 86.0
